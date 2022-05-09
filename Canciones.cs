@@ -7,8 +7,9 @@ namespace Ejercicioderepaso2
 {
     public class Canciones
     {
-        String Nombre {get; set;}
-        String Artista { get; set; }
-        string 
+        public String Nombre {get; set;}
+        public String Artista { get; set; }
+        public string Duracion { get; set; }
+
     }
 }
